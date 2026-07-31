@@ -1,0 +1,9 @@
+﻿Product: Virtual Surround Cables
+Version: 1.1.0
+Architecture: x64
+Built: 2026-07-28T14:17:14.0274481+02:00
+Driver deployment: bundled signed files, direct PnPUtil/devnode installation, no setup executable
+Package identity: TarekWasfy.VirtualSurroundCables
+Package family name: TarekWasfy.VirtualSurroundCables_s3n3d63k81dnp
+Store ID: 9MXH6MMRJV8K
+Capabilities: runFullTrust, allowElevation

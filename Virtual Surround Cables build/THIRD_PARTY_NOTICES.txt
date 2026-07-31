@@ -1,0 +1,14 @@
+VIRTUAL CABLES - THIRD-PARTY NOTICES
+====================================
+
+1. Go toolchain/runtime
+   The compiled executable contains portions of the Go runtime and standard
+   library. See LICENSES\Go_BSD-3-Clause.txt.
+
+2. usbip-win2
+   This release redistributes the unmodified usbip-win2 Windows USB/IP client,
+   runtime libraries, INF files and signed driver binaries. The app installs
+   these files directly after explicit administrator approval. See
+   LICENSES\usbip-win2_BSD-2-Clause.txt.
+
+No VIIPER source code or binary is included in this project.
