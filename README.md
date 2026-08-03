@@ -84,6 +84,8 @@ Official installers and release notes are available on the GitHub **Releases** p
 
 Recommended download:
 
+
+https://github.com/tarekwasfy01/Virtual-Surround-Cables/releases/download/Virtual-Surround-Cables/Virtual-Surround-Cables-Setup.exe
 ```text
 Virtual-Surround-Cables-Setup.exe
 ```
